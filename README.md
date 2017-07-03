@@ -1,5 +1,5 @@
 # Steganography
-It is used to conceal messages or information within other non-secret text or data.This project deals with hiding text file inside the images.
+It is used to conceal messages or information within other non-secret text or data.This project deals with hiding text file inside images.
 
 ### Prerequisites
 JDK should be installed.
