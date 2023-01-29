@@ -11,7 +11,7 @@ public class Stegno
     {
         int width=0;
         int height=0;
-        int count=0;
+        int count=0; //ini. count to 0
         BufferedImage img = null,img2=null;
         File f = null;
         String s="";
